@@ -1,1 +1,1 @@
-web:npm start nodemon src/app.js
+web:nodemon src/app.js
